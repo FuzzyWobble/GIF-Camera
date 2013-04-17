@@ -3,6 +3,9 @@ GIF-Camera
 
 A simple Processing(.org) tool that allows you to create animated GIFs of yourself using a computers webcam.
 
+All the 'application...' folders contain standalone applications you can run for the specified OS. 
+This way you don't need Processing to run the GIF camera. 
+
 ___ HOW TO USE ___
 
 Copy the contents of the 'libraries_you_need' folder to your Processing libraries directory. 
