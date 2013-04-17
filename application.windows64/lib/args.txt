@@ -1,0 +1,3 @@
+ -Xms64m -Xmx1024m
+gif_camera
+gif_camera.jar,core.jar,jogl-all.jar,gluegen-rt.jar,jogl-all-natives-windows-amd64.jar,gluegen-rt-natives-windows-amd64.jar,gifAnimation.jar,controlP5.jar,gstreamer-java.jar,jna.jar,video.jar
