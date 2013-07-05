@@ -1,6 +1,8 @@
 GIF-Camera
 ==========
 
+http://fuzzywobble.com/project.php?p=46&n=gif-cam
+
 A simple Processing(.org) tool that allows you to create animated GIFs of yourself using a computers webcam.
 
 The GIF settings must be adjusted BEFORE making your GIF. They have no effect after. 
